@@ -33,6 +33,8 @@ To get bids statistics for BTC-USD, you would send a GET request to:
 Copy code
 ```bash
 http://127.0.0.1:5000/bids/BTC-USD
+http://127.0.0.1:5000/asks/BTC-USD
+http://127.0.0.1:5000/general_stats/BTC-USD
 ```
 Response:
 
